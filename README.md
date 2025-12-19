@@ -24,10 +24,10 @@ Site desenvolvido com **HTML, CSS e JavaScript** para contrução de uma **Calcu
 ---
 
 ## ✅ Funcionalidades
-- [x] Página inicial
-- [x] Formulário de contato
-- [x] Site responsivo
-- [x] Segurança
+- [x] Estilo em CSS
+- [x] Programação básico
+- [x] Calculos Mátematicos
+- [x] Tema claro e escuro
 
 ---
 
@@ -35,4 +35,4 @@ Site desenvolvido com **HTML, CSS e JavaScript** para contrução de uma **Calcu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MaykiDev/siteifct.github.io.git
+   git clone https://github.com/MaykiDev/calculadora.git
